@@ -5,6 +5,6 @@
 </template>
 <script>
 export default {
-  layout: 'navbar'
+  layout: 'navbar-footer'
 }
 </script>
